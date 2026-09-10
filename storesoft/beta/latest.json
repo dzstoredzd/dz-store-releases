@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
   "channel": "beta",
-  "releaseId": "2.1.1-505",
+  "releaseId": "2.1.1-506",
   "version": "2.1.1",
-  "build": 505,
-  "commitSha": "36ba2e3cc97c7f9adf2166c3f2ec52ff7aff5e83",
+  "build": 506,
+  "commitSha": "27469a9dcb18d6a9eb83a450b3d8b7ea178c198d",
   "productionEligible": false,
-  "downloadUrl": "https://github.com/dzstoredzd/dz-store-releases/releases/download/build-505/StoreSoft-2.1.1-505.exe",
-  "releasePageUrl": "https://github.com/dzstoredzd/dz-store-releases/releases/tag/build-505",
+  "downloadUrl": "https://github.com/dzstoredzd/dz-store-releases/releases/download/build-506/StoreSoft-2.1.1-506.exe",
+  "releasePageUrl": "https://github.com/dzstoredzd/dz-store-releases/releases/tag/build-506",
   "releaseNotes": {
     "ar": "• يضيف نسخة اختبار موحدة لأندرويد وويندوز من نفس الكود.\n• يتيح ربط جهاز بشبكة المحل، ويتضمن إعداد الكمبيوتر الرئيسي في نسخة ويندوز التجريبية.\n• يحسن أمان شبكة المحل المحلية والنسخ الاحتياطي والاسترجاع.\n• يعرض رسالة أوضح عندما يجب فتح صندوق النقد قبل إتمام البيع.",
     "en": "• Adds one matched Android and Windows test release from the same source.\n• Enables shop-network connection and includes Main PC setup in the Windows beta.\n• Improves local shop-network safety, backup, and recovery.\n• Shows a clearer message when the cash drawer must be opened before checkout.",
     "fr": "• Ajoute une version de test Android et Windows issue du même code.\n• Active la connexion au réseau du magasin et inclut la configuration du PC principal dans la bêta Windows.\n• Améliore la sécurité, la sauvegarde et la récupération du réseau local du magasin.\n• Affiche un message plus clair quand la caisse doit être ouverte avant la vente."
   },
-  "sha256": "d6024bb55d3411dc69de918f1caca80cc19e1bcc02d99045becead418ad62cbc",
-  "size": 33975262,
+  "sha256": "306335338b9d7485ea9099dfc8e7904c28c2108eec1c7b2c261829a300ab0ff5",
+  "size": 33973001,
   "signed": false
 }

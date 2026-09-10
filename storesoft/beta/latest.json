@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "channel": "beta",
+  "releaseId": "2.1.1-503",
+  "version": "2.1.1",
+  "build": 503,
+  "commitSha": "9721cee1640753f869724f8ade09f86bdc3c7805",
+  "downloadUrl": "https://github.com/dzstoredzd/dz-store-releases/releases/download/build-503/StoreSoft-2.1.1-503.exe",
+  "releasePageUrl": "https://github.com/dzstoredzd/dz-store-releases/releases/tag/build-503",
+  "releaseNotes": {
+    "ar": "• يضيف نسخة اختبار موحدة لأندرويد وويندوز من نفس الكود.\n• يحسن أمان شبكة المحل المحلية والنسخ الاحتياطي والاسترجاع.\n• يعرض رسالة أوضح عندما يجب فتح صندوق النقد قبل إتمام البيع.",
+    "en": "• Adds one matched Android and Windows test release from the same source.\n• Improves local shop-network safety, backup, and recovery.\n• Shows a clearer message when the cash drawer must be opened before checkout.",
+    "fr": "• Ajoute une version de test Android et Windows issue du même code.\n• Améliore la sécurité, la sauvegarde et la récupération du réseau local du magasin.\n• Affiche un message plus clair quand la caisse doit être ouverte avant la vente."
+  },
+  "sha256": "f516f3de11102eae3ea43aace605e30394164a3f59a9f08d072395b54bbf3feb",
+  "size": 22362641,
+  "signed": false
+}

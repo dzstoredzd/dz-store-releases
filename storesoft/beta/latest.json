@@ -1,18 +1,19 @@
 {
   "schemaVersion": 1,
   "channel": "beta",
-  "releaseId": "2.1.1-503",
+  "releaseId": "2.1.1-504",
   "version": "2.1.1",
-  "build": 503,
-  "commitSha": "9721cee1640753f869724f8ade09f86bdc3c7805",
-  "downloadUrl": "https://github.com/dzstoredzd/dz-store-releases/releases/download/build-503/StoreSoft-2.1.1-503.exe",
-  "releasePageUrl": "https://github.com/dzstoredzd/dz-store-releases/releases/tag/build-503",
+  "build": 504,
+  "commitSha": "e0833d97998b61cb5869b2ea069ef702e49f0efe",
+  "productionEligible": false,
+  "downloadUrl": "https://github.com/dzstoredzd/dz-store-releases/releases/download/build-504/StoreSoft-2.1.1-504.exe",
+  "releasePageUrl": "https://github.com/dzstoredzd/dz-store-releases/releases/tag/build-504",
   "releaseNotes": {
-    "ar": "• يضيف نسخة اختبار موحدة لأندرويد وويندوز من نفس الكود.\n• يحسن أمان شبكة المحل المحلية والنسخ الاحتياطي والاسترجاع.\n• يعرض رسالة أوضح عندما يجب فتح صندوق النقد قبل إتمام البيع.",
-    "en": "• Adds one matched Android and Windows test release from the same source.\n• Improves local shop-network safety, backup, and recovery.\n• Shows a clearer message when the cash drawer must be opened before checkout.",
-    "fr": "• Ajoute une version de test Android et Windows issue du même code.\n• Améliore la sécurité, la sauvegarde et la récupération du réseau local du magasin.\n• Affiche un message plus clair quand la caisse doit être ouverte avant la vente."
+    "ar": "• يضيف نسخة اختبار موحدة لأندرويد وويندوز من نفس الكود.\n• يتيح ربط جهاز بشبكة المحل، ويتضمن إعداد الكمبيوتر الرئيسي في نسخة ويندوز التجريبية.\n• يحسن أمان شبكة المحل المحلية والنسخ الاحتياطي والاسترجاع.\n• يعرض رسالة أوضح عندما يجب فتح صندوق النقد قبل إتمام البيع.",
+    "en": "• Adds one matched Android and Windows test release from the same source.\n• Enables shop-network connection and includes Main PC setup in the Windows beta.\n• Improves local shop-network safety, backup, and recovery.\n• Shows a clearer message when the cash drawer must be opened before checkout.",
+    "fr": "• Ajoute une version de test Android et Windows issue du même code.\n• Active la connexion au réseau du magasin et inclut la configuration du PC principal dans la bêta Windows.\n• Améliore la sécurité, la sauvegarde et la récupération du réseau local du magasin.\n• Affiche un message plus clair quand la caisse doit être ouverte avant la vente."
   },
-  "sha256": "f516f3de11102eae3ea43aace605e30394164a3f59a9f08d072395b54bbf3feb",
-  "size": 22362641,
+  "sha256": "16468cd19fef0579cfad2e0ca2783076c84c5edf911f00623b4b06fc4c57576f",
+  "size": 33972463,
   "signed": false
 }

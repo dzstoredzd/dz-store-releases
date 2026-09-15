@@ -2,19 +2,19 @@
   "schemaVersion": 1,
   "channel": "beta",
   "environment": "staging",
-  "releaseId": "2.1.2-513",
+  "releaseId": "2.1.2-514",
   "version": "2.1.2",
-  "build": 513,
-  "commitSha": "29a040aabbed744ab7a6d08d53efa6239006cc2d",
+  "build": 514,
+  "commitSha": "5ad9c57824abb7dcbe9cee7a625fab67d5b72d17",
   "productionEligible": false,
-  "downloadUrl": "https://github.com/dzstoredzd/dz-store-releases/releases/download/build-513/StoreSoft-2.1.2-513.exe",
-  "releasePageUrl": "https://github.com/dzstoredzd/dz-store-releases/releases/tag/build-513",
+  "downloadUrl": "https://github.com/dzstoredzd/dz-store-releases/releases/download/build-514/StoreSoft-2.1.2-514.exe",
+  "releasePageUrl": "https://github.com/dzstoredzd/dz-store-releases/releases/tag/build-514",
   "releaseNotes": {
-    "ar": "• نسخة تجريبية ببيانات اختبار منفصلة وعلامة BETA / STAGING واضحة.\n• يمكن تثبيت نسخة ويندوز التجريبية بجانب النسخة العادية.\n• يوحّد صلاحيات الموظفين ويحسّن مزامنة المبيعات كاملة.\n• يحسّن تحديث الكمبيوتر الرئيسي والنسخ الاحتياطي والاسترجاع.",
-    "en": "• Uses separate test data with a clear BETA / STAGING label.\n• Windows Beta can be installed alongside the regular app.\n• Unifies staff access and improves complete-sale syncing.\n• Improves Main PC updates, backup, and recovery.",
-    "fr": "• Utilise des données de test séparées avec un repère BETA / STAGING visible.\n• La bêta Windows peut être installée à côté de l’application habituelle.\n• Unifie les accès du personnel et améliore la synchronisation des ventes complètes.\n• Améliore les mises à jour du PC principal, la sauvegarde et la récupération."
+    "ar": "• في ويندوز: خيار لحذف البيانات المحلية والخادم عند إزالة التطبيق.\n• يمكن حفظ نسخة للاسترجاع أولاً، مع تأكيد واضح قبل الحذف.\n• الإزالة العادية تبقي البيانات والخادم. تبقى بيانات السحابة والأجهزة الأخرى والنسخة العادية محفوظة.",
+    "en": "• Windows uninstall can now remove local data and the shared server.\n• Save a recovery copy first, with clear confirmation before deletion.\n• Normal uninstall keeps data and server. Cloud data, other devices, and the regular edition stay unchanged.",
+    "fr": "• Sur Windows, option pour supprimer les données locales et le serveur partagé à la désinstallation.\n• Copie de récupération proposée et confirmation claire avant suppression.\n• La désinstallation normale conserve données et serveur. Le cloud, les autres appareils et la version habituelle restent inchangés."
   },
-  "sha256": "7951158eb5ac2d6939fd6b4316426f3e1a5e7e78ff23fe054b70e447ed732126",
-  "size": 34297285,
+  "sha256": "a2f1a4c80c4690a021d6fc074aae24bb06b1dabf718b31cec4a4e9fe4f6673ae",
+  "size": 34316548,
   "signed": false
 }

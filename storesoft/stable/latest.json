@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "channel": "stable",
+  "environment": "production",
+  "releaseId": "2.1.2-530",
+  "version": "2.1.2",
+  "build": 530,
+  "commitSha": "537b4ebd692bed027251931789e5e2ea6433ea45",
+  "productionEligible": true,
+  "downloadUrl": "https://github.com/dzstoredzd/dz-store-releases/releases/download/build-530/StoreSoft-2.1.2-530.exe",
+  "releasePageUrl": "https://github.com/dzstoredzd/dz-store-releases/releases/tag/build-530",
+  "releaseNotes": {
+    "ar": "• شاشة البداية الأولى أبسط: اختر اللغة ثم ابدأ مباشرة.\n• أخفينا خيارات الكمبيوتر الرئيسي والخادم والشبكة المحلية من إعدادات النسخة الإنتاجية.\n• تبقى هذه الأدوات متاحة في نسخ Beta وInternal.",
+    "en": "• First launch is simpler: choose a language, then start directly.\n• Main-PC, server, and local-network options are hidden in the Production settings.\n• These tools remain available in Beta and Internal builds.",
+    "fr": "• Le premier démarrage est plus simple : choisissez la langue, puis commencez directement.\n• Les options du PC principal, du serveur et du réseau local sont masquées dans la version Production.\n• Ces outils restent disponibles dans les versions Beta et Internal."
+  },
+  "sha256": "b1e5c1a4b7e5ae90543c5e0d43624d84873f9b61c2d6b660e6712437fa8e60b3",
+  "size": 34712969,
+  "signed": false
+}

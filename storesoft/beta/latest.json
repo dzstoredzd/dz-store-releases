@@ -2,19 +2,19 @@
   "schemaVersion": 1,
   "channel": "beta",
   "environment": "staging",
-  "releaseId": "2.1.2-514",
+  "releaseId": "2.1.2-531",
   "version": "2.1.2",
-  "build": 514,
-  "commitSha": "5ad9c57824abb7dcbe9cee7a625fab67d5b72d17",
+  "build": 531,
+  "commitSha": "252806bbe5c9dd7c6bdc9d2a5497e7e7b25d410c",
   "productionEligible": false,
-  "downloadUrl": "https://github.com/dzstoredzd/dz-store-releases/releases/download/build-514/StoreSoft-2.1.2-514.exe",
-  "releasePageUrl": "https://github.com/dzstoredzd/dz-store-releases/releases/tag/build-514",
+  "downloadUrl": "https://github.com/dzstoredzd/dz-store-releases/releases/download/build-531/StoreSoft-2.1.2-531.exe",
+  "releasePageUrl": "https://github.com/dzstoredzd/dz-store-releases/releases/tag/build-531",
   "releaseNotes": {
-    "ar": "• في ويندوز: خيار لحذف البيانات المحلية والخادم عند إزالة التطبيق.\n• يمكن حفظ نسخة للاسترجاع أولاً، مع تأكيد واضح قبل الحذف.\n• الإزالة العادية تبقي البيانات والخادم. تبقى بيانات السحابة والأجهزة الأخرى والنسخة العادية محفوظة.",
-    "en": "• Windows uninstall can now remove local data and the shared server.\n• Save a recovery copy first, with clear confirmation before deletion.\n• Normal uninstall keeps data and server. Cloud data, other devices, and the regular edition stay unchanged.",
-    "fr": "• Sur Windows, option pour supprimer les données locales et le serveur partagé à la désinstallation.\n• Copie de récupération proposée et confirmation claire avant suppression.\n• La désinstallation normale conserve données et serveur. Le cloud, les autres appareils et la version habituelle restent inchangés."
+    "ar": "• تحديث التوافق مع أندرويد وويندوز.\n• تحديث اختيار ملفات الاستيراد والتصدير والنسخ الاحتياطي.\n• تتضمن النسخة التجريبية مستويات الأسعار والعروض حسب المستوى.",
+    "en": "• Updated Android and Windows compatibility.\n• Updated file selection for imports, exports, and backups.\n• This test version includes price levels and level-specific promotions.",
+    "fr": "• Compatibilité Android et Windows mise à jour.\n• Sélection des fichiers d’import, d’export et de sauvegarde mise à jour.\n• Cette version de test inclut les niveaux de prix et les promotions par niveau."
   },
-  "sha256": "a2f1a4c80c4690a021d6fc074aae24bb06b1dabf718b31cec4a4e9fe4f6673ae",
-  "size": 34316548,
+  "sha256": "a548303c5857cdd493374629824c5542cb07f163e051986c0784a4a47e86d9d3",
+  "size": 34344735,
   "signed": false
 }

@@ -2,19 +2,19 @@
   "schemaVersion": 1,
   "channel": "stable",
   "environment": "production",
-  "releaseId": "2.1.2-530",
-  "version": "2.1.2",
-  "build": 530,
-  "commitSha": "537b4ebd692bed027251931789e5e2ea6433ea45",
+  "releaseId": "2.2.0-538",
+  "version": "2.2.0",
+  "build": 538,
+  "commitSha": "425b886f7e2af6aaf30e82b3fb5c1e66a555e27a",
   "productionEligible": true,
-  "downloadUrl": "https://github.com/dzstoredzd/dz-store-releases/releases/download/build-530/StoreSoft-2.1.2-530.exe",
-  "releasePageUrl": "https://github.com/dzstoredzd/dz-store-releases/releases/tag/build-530",
+  "downloadUrl": "https://github.com/dzstoredzd/dz-store-releases/releases/download/build-538/StoreSoft-2.2.0-538.exe",
+  "releasePageUrl": "https://github.com/dzstoredzd/dz-store-releases/releases/tag/build-538",
   "releaseNotes": {
-    "ar": "• شاشة البداية الأولى أبسط: اختر اللغة ثم ابدأ مباشرة.\n• أخفينا خيارات الكمبيوتر الرئيسي والخادم والشبكة المحلية من إعدادات النسخة الإنتاجية.\n• تبقى هذه الأدوات متاحة في نسخ Beta وInternal.",
-    "en": "• First launch is simpler: choose a language, then start directly.\n• Main-PC, server, and local-network options are hidden in the Production settings.\n• These tools remain available in Beta and Internal builds.",
-    "fr": "• Le premier démarrage est plus simple : choisissez la langue, puis commencez directement.\n• Les options du PC principal, du serveur et du réseau local sont masquées dans la version Production.\n• Ces outils restent disponibles dans les versions Beta et Internal."
+    "ar": "• أضف مستويات أسعار للمحل واختر السعر المناسب عند البيع.\n• أرسل رأيك من داخل التطبيق؛ يُحفظ حتى يعود الاتصال بالإنترنت.\n• إعداد الشبكة المحلية متاح فقط في النسخة التجريبية.\n• تحسينات في الطباعة والمزامنة واستقرار التطبيق.",
+    "en": "• Add price levels and choose the right price when selling.\n• Send feedback in the app; it waits safely while offline.\n• Local network setup is available only in the test edition.\n• Printing, Sync and stability improvements.",
+    "fr": "• Ajoutez des niveaux de prix et choisissez le bon prix lors de la vente.\n• Envoyez votre avis dans l’application ; il attend le retour d’Internet.\n• La configuration du réseau local est réservée à la version de test.\n• Améliorations de l’impression, de Sync et de la stabilité."
   },
-  "sha256": "b1e5c1a4b7e5ae90543c5e0d43624d84873f9b61c2d6b660e6712437fa8e60b3",
-  "size": 34712969,
+  "sha256": "f0e19bf618f86bc7ea33b3ad74d70c640b682775b77cc2437d0eaaf53f5d02bf",
+  "size": 22407512,
   "signed": false
 }

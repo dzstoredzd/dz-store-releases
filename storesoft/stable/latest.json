@@ -2,19 +2,19 @@
   "schemaVersion": 1,
   "channel": "stable",
   "environment": "production",
-  "releaseId": "2.3.2-542",
-  "version": "2.3.2",
-  "build": 542,
-  "commitSha": "b7b407f7cc6170b6f25af455c81d8e0a2df7a94d",
+  "releaseId": "2.3.3-543",
+  "version": "2.3.3",
+  "build": 543,
+  "commitSha": "5d9491c15a33e2547d0d8567606d23aab502ccfa",
   "productionEligible": true,
-  "downloadUrl": "https://github.com/dzstoredzd/dz-store-releases/releases/download/build-542/StoreSoft-2.3.2-542.exe",
-  "releasePageUrl": "https://github.com/dzstoredzd/dz-store-releases/releases/tag/build-542",
+  "downloadUrl": "https://github.com/dzstoredzd/dz-store-releases/releases/download/build-543/StoreSoft-2.3.3-543.exe",
+  "releasePageUrl": "https://github.com/dzstoredzd/dz-store-releases/releases/tag/build-543",
   "releaseNotes": {
-    "ar": "• بيع أسرع على Windows باختصارات لوحة المفاتيح للمنتجات والسلة والدفع.\n• المنتجات المؤرشفة لا تُحسب ضمن المخزون الحالي والتقارير.\n• عند حذف التطبيق، يمكنك حفظ نسخة من بيانات المحل.\n• يُحدَّث خادم الكمبيوتر الرئيسي مع التطبيق إذا كان مثبتًا.",
-    "en": "• Sell faster on Windows with keyboard shortcuts for products, cart and payment.\n• Archived products no longer count in current stock reports.\n• Save a copy of shop data when uninstalling, if you choose.\n• An installed Main PC server updates with the app.",
-    "fr": "• Vendez plus vite sur Windows avec des raccourcis pour les produits, le panier et le paiement.\n• Les produits archivés sont exclus du stock actuel dans les rapports.\n• Choisissez de garder une copie des données lors de la désinstallation.\n• Le serveur du PC principal se met à jour avec l’application s’il est installé."
+    "ar": "• البيع بالباركود يتطلب رمزًا مطابقًا وواضحًا. الرمز الناقص أو غير الموجود لا يضيف منتجًا إلى السلة.\n• منع تكرار الباركود بين المنتجات والوحدات والرموز الإضافية.\n• تحسين التحقق من الباركود عند حفظ المنتجات واستيرادها.",
+    "en": "• Barcode sales require one exact match. Partial or unknown codes leave the cart unchanged.\n• Prevent duplicate barcodes across products, packaging and extra codes.\n• Improved barcode checks when saving and importing products.",
+    "fr": "• La vente par code-barres exige une correspondance exacte. Un code incomplet ou inconnu ne modifie pas le panier.\n• Empêche les doublons entre produits, unités et codes supplémentaires.\n• Meilleure vérification des codes lors de l’enregistrement et de l’importation."
   },
-  "sha256": "f944bec66c670ce201e407505eb8fae0f0ff0e0f6347fa2651efca26d1fda8e5",
-  "size": 34444228,
+  "sha256": "a083b97792e103b9e4f9f5423961f728d6604770ed6bc2dfc38ace9331e8159c",
+  "size": 34398783,
   "signed": false
 }

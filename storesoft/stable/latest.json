@@ -2,19 +2,19 @@
   "schemaVersion": 1,
   "channel": "stable",
   "environment": "production",
-  "releaseId": "2.3.3-543",
-  "version": "2.3.3",
-  "build": 543,
-  "commitSha": "5d9491c15a33e2547d0d8567606d23aab502ccfa",
+  "releaseId": "2.4.0-545",
+  "version": "2.4.0",
+  "build": 545,
+  "commitSha": "479ff00a9233935503ded889fecf5a27975eef8b",
   "productionEligible": true,
-  "downloadUrl": "https://github.com/dzstoredzd/dz-store-releases/releases/download/build-543/StoreSoft-2.3.3-543.exe",
-  "releasePageUrl": "https://github.com/dzstoredzd/dz-store-releases/releases/tag/build-543",
+  "downloadUrl": "https://github.com/dzstoredzd/dz-store-releases/releases/download/build-545/StoreSoft-2.4.0-545.exe",
+  "releasePageUrl": "https://github.com/dzstoredzd/dz-store-releases/releases/tag/build-545",
   "releaseNotes": {
-    "ar": "• البيع بالباركود يتطلب رمزًا مطابقًا وواضحًا. الرمز الناقص أو غير الموجود لا يضيف منتجًا إلى السلة.\n• منع تكرار الباركود بين المنتجات والوحدات والرموز الإضافية.\n• تحسين التحقق من الباركود عند حفظ المنتجات واستيرادها.",
-    "en": "• Barcode sales require one exact match. Partial or unknown codes leave the cart unchanged.\n• Prevent duplicate barcodes across products, packaging and extra codes.\n• Improved barcode checks when saving and importing products.",
-    "fr": "• La vente par code-barres exige une correspondance exacte. Un code incomplet ou inconnu ne modifie pas le panier.\n• Empêche les doublons entre produits, unités et codes supplémentaires.\n• Meilleure vérification des codes lors de l’enregistrement et de l’importation."
+    "ar": "• يبقى تسجيل الدخول محفوظًا عند انقطاع الإنترنت.\n• مزامنة أسرع عند تغيّر البيانات مع طلبات أقل أثناء الخمول.\n• تحسينات للإشعارات والباركود والطباعة.\n• إصلاح ترقية بيانات المتاجر القديمة.",
+    "en": "• Keep your saved login while offline.\n• Sync when data changes, with fewer requests while idle.\n• Improvements to notifications, barcodes and printing.\n• Fix upgrades for older shop data.",
+    "fr": "• Votre connexion reste enregistrée sans Internet.\n• Synchronisation lors des changements, avec moins de requêtes au repos.\n• Améliorations des notifications, codes-barres et impressions.\n• Correction de la mise à jour des anciennes boutiques."
   },
-  "sha256": "a083b97792e103b9e4f9f5423961f728d6604770ed6bc2dfc38ace9331e8159c",
-  "size": 34398783,
+  "sha256": "104759f38aff82457df96990693040d281ea2a788b0c6c09de33f73e9e163082",
+  "size": 34490373,
   "signed": false
 }

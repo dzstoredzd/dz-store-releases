@@ -2,19 +2,19 @@
   "schemaVersion": 1,
   "channel": "beta",
   "environment": "staging",
-  "releaseId": "2.2.0-539",
-  "version": "2.2.0",
-  "build": 539,
-  "commitSha": "2bc121fad25401374f4dfc2d2cbf570e83886f9f",
+  "releaseId": "2.4.0-544",
+  "version": "2.4.0",
+  "build": 544,
+  "commitSha": "12a2c2cc0ea357a6138eb88a74183471d2308600",
   "productionEligible": false,
-  "downloadUrl": "https://github.com/dzstoredzd/dz-store-releases/releases/download/build-539/StoreSoft-2.2.0-539.exe",
-  "releasePageUrl": "https://github.com/dzstoredzd/dz-store-releases/releases/tag/build-539",
+  "downloadUrl": "https://github.com/dzstoredzd/dz-store-releases/releases/download/build-544/StoreSoft-2.4.0-544.exe",
+  "releasePageUrl": "https://github.com/dzstoredzd/dz-store-releases/releases/tag/build-544",
   "releaseNotes": {
-    "ar": "• قفل اختياري للتطبيق على Android ببصمة الهاتف أو رمز قفل الشاشة.\n• إعداد الشبكة المحلية أصبح في بطاقة واحدة داخل الإعدادات.\n• تقارير المخزون والتنبيهات تستبعد المنتجات المؤرشفة، وتعود لحسابها بعد الاسترجاع.\n• إلغاء التثبيت على Windows يتيح حفظ نسخة من البيانات بخيار واحد.",
-    "en": "• Optional Android app lock using your phone's fingerprint or screen lock.\n• Local network setup is grouped in one Settings card.\n• Stock reports and alerts exclude archived products and count them again when restored.\n• Windows uninstall offers one optional data copy.",
-    "fr": "• Verrouillage Android facultatif avec l'empreinte ou le code de l'écran.\n• La configuration du réseau local est regroupée dans les réglages.\n• Les rapports et alertes de stock excluent les produits archivés et les réintègrent après restauration.\n• La désinstallation Windows propose une copie facultative des données."
+    "ar": "• يبقى تسجيل الدخول محفوظًا عند انقطاع الإنترنت.\r\n• مزامنة أسرع عند تغيّر البيانات مع طلبات أقل أثناء الخمول.\r\n• تحسينات للإشعارات والباركود والطباعة.\r\n• نسخة تجريبية متصلة ببيئة الاختبار.",
+    "en": "• Keep your saved login while offline.\r\n• Sync when data changes, with fewer requests while idle.\r\n• Improvements to notifications, barcodes and printing.\r\n• Beta build connected to the staging environment.",
+    "fr": "• Votre connexion reste enregistrée sans Internet.\r\n• Synchronisation lors des changements, avec moins de requêtes au repos.\r\n• Améliorations des notifications, codes-barres et impressions.\r\n• Version bêta connectée à l’environnement de test."
   },
-  "sha256": "060be0ad1aadac2e22ddde9543506cc0d4fcc0a426b05c69b6a442580c98892c",
-  "size": 34341619,
+  "sha256": "a3a30db06a9774680f1e3008809880da6e013dbb953c1f815decff9ab2beadb4",
+  "size": 34487541,
   "signed": false
 }

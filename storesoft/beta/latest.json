@@ -2,19 +2,19 @@
   "schemaVersion": 1,
   "channel": "beta",
   "environment": "staging",
-  "releaseId": "2.4.0-544",
-  "version": "2.4.0",
-  "build": 544,
-  "commitSha": "12a2c2cc0ea357a6138eb88a74183471d2308600",
+  "releaseId": "2.5.0-546",
+  "version": "2.5.0",
+  "build": 546,
+  "commitSha": "983ca9bddc50baa6db279ce856175491fd61b0a1",
   "productionEligible": false,
-  "downloadUrl": "https://github.com/dzstoredzd/dz-store-releases/releases/download/build-544/StoreSoft-2.4.0-544.exe",
-  "releasePageUrl": "https://github.com/dzstoredzd/dz-store-releases/releases/tag/build-544",
+  "downloadUrl": "https://github.com/dzstoredzd/dz-store-releases/releases/download/build-546/StoreSoft-2.5.0-546.exe",
+  "releasePageUrl": "https://github.com/dzstoredzd/dz-store-releases/releases/tag/build-546",
   "releaseNotes": {
-    "ar": "• يبقى تسجيل الدخول محفوظًا عند انقطاع الإنترنت.\r\n• مزامنة أسرع عند تغيّر البيانات مع طلبات أقل أثناء الخمول.\r\n• تحسينات للإشعارات والباركود والطباعة.\r\n• نسخة تجريبية متصلة ببيئة الاختبار.",
-    "en": "• Keep your saved login while offline.\r\n• Sync when data changes, with fewer requests while idle.\r\n• Improvements to notifications, barcodes and printing.\r\n• Beta build connected to the staging environment.",
-    "fr": "• Votre connexion reste enregistrée sans Internet.\r\n• Synchronisation lors des changements, avec moins de requêtes au repos.\r\n• Améliorations des notifications, codes-barres et impressions.\r\n• Version bêta connectée à l’environnement de test."
+    "ar": "• تقارير أوضح وملخص يومي للمبيعات.\r\n• تحسين الملف الشخصي وتسجيل الدخول بحساب Google.\r\n• عرض أوضح للباقات والأسعار وفترة التجربة.\r\n• إعدادات جديدة لطباعة الوصل وتحسين التذكيرات.\r\n• نسخة تجريبية متصلة ببيئة الاختبار.",
+    "en": "• Clearer reports and a daily sales summary.\r\n• Improved profile and Google account sign-in.\r\n• Clearer plans, prices and trial details.\r\n• New receipt settings and improved reminders.\r\n• Beta build connected to the staging environment.",
+    "fr": "• Rapports plus clairs et résumé quotidien des ventes.\r\n• Profil amélioré et connexion avec un compte Google.\r\n• Offres, prix et période d’essai plus clairs.\r\n• Nouveaux réglages des tickets et rappels améliorés.\r\n• Version bêta connectée à l’environnement de test."
   },
-  "sha256": "a3a30db06a9774680f1e3008809880da6e013dbb953c1f815decff9ab2beadb4",
-  "size": 34487541,
+  "sha256": "137b501145323e22f60f75256c43d1322f40fcc01531f2a19ac144c3caa77dae",
+  "size": 35255889,
   "signed": false
 }

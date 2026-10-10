@@ -2,19 +2,19 @@
   "schemaVersion": 1,
   "channel": "beta",
   "environment": "staging",
-  "releaseId": "2.5.0-546",
+  "releaseId": "2.5.0-548",
   "version": "2.5.0",
-  "build": 546,
-  "commitSha": "983ca9bddc50baa6db279ce856175491fd61b0a1",
+  "build": 548,
+  "commitSha": "19c486a6909bdcc1e10d725eff174041798fea53",
   "productionEligible": false,
-  "downloadUrl": "https://github.com/dzstoredzd/dz-store-releases/releases/download/build-546/StoreSoft-2.5.0-546.exe",
-  "releasePageUrl": "https://github.com/dzstoredzd/dz-store-releases/releases/tag/build-546",
+  "downloadUrl": "https://github.com/dzstoredzd/dz-store-releases/releases/download/build-548/StoreSoft-2.5.0-548.exe",
+  "releasePageUrl": "https://github.com/dzstoredzd/dz-store-releases/releases/tag/build-548",
   "releaseNotes": {
-    "ar": "• تقارير أوضح وملخص يومي للمبيعات.\r\n• تحسين الملف الشخصي وتسجيل الدخول بحساب Google.\r\n• عرض أوضح للباقات والأسعار وفترة التجربة.\r\n• إعدادات جديدة لطباعة الوصل وتحسين التذكيرات.\r\n• نسخة تجريبية متصلة ببيئة الاختبار.",
-    "en": "• Clearer reports and a daily sales summary.\r\n• Improved profile and Google account sign-in.\r\n• Clearer plans, prices and trial details.\r\n• New receipt settings and improved reminders.\r\n• Beta build connected to the staging environment.",
-    "fr": "• Rapports plus clairs et résumé quotidien des ventes.\r\n• Profil amélioré et connexion avec un compte Google.\r\n• Offres, prix et période d’essai plus clairs.\r\n• Nouveaux réglages des tickets et rappels améliorés.\r\n• Version bêta connectée à l’environnement de test."
+    "ar": "• تتبع المبيعات والمنتجات المضافة للعملاء المرتبطين على Android.\r\n• حفظ وقت النشاط أثناء العمل دون إنترنت وتجنب تكرار العد.\r\n• احتساب بيع الصيانة بعد نجاح التسليم فقط.\r\n• نسخة تجريبية متصلة ببيئة الاختبار.",
+    "en": "• Sale and added-product activity for linked Android leads.\r\n• Offline reports keep their actual time and avoid duplicate counts.\r\n• Repair sales count only after delivery succeeds.\r\n• Beta build connected to the staging environment.",
+    "fr": "• Suivi des ventes et produits ajoutés pour les prospects Android liés.\r\n• Les rapports hors ligne gardent leur date réelle sans double comptage.\r\n• Les ventes de réparation comptent après une livraison réussie.\r\n• Version bêta connectée à l’environnement de test."
   },
-  "sha256": "137b501145323e22f60f75256c43d1322f40fcc01531f2a19ac144c3caa77dae",
-  "size": 35255889,
+  "sha256": "f21d6dfc993186fd14bccb757b68d8735fce43ace9e5110de7fa84f4f24124c0",
+  "size": 35241070,
   "signed": false
 }

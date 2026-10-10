@@ -2,19 +2,19 @@
   "schemaVersion": 1,
   "channel": "stable",
   "environment": "production",
-  "releaseId": "2.4.0-545",
-  "version": "2.4.0",
-  "build": 545,
-  "commitSha": "479ff00a9233935503ded889fecf5a27975eef8b",
+  "releaseId": "2.5.0-547",
+  "version": "2.5.0",
+  "build": 547,
+  "commitSha": "b1ec0b777ab379eb3649f62d71fb8ffe8a443d41",
   "productionEligible": true,
-  "downloadUrl": "https://github.com/dzstoredzd/dz-store-releases/releases/download/build-545/StoreSoft-2.4.0-545.exe",
-  "releasePageUrl": "https://github.com/dzstoredzd/dz-store-releases/releases/tag/build-545",
+  "downloadUrl": "https://github.com/dzstoredzd/dz-store-releases/releases/download/build-547/StoreSoft-2.5.0-547.exe",
+  "releasePageUrl": "https://github.com/dzstoredzd/dz-store-releases/releases/tag/build-547",
   "releaseNotes": {
-    "ar": "• يبقى تسجيل الدخول محفوظًا عند انقطاع الإنترنت.\n• مزامنة أسرع عند تغيّر البيانات مع طلبات أقل أثناء الخمول.\n• تحسينات للإشعارات والباركود والطباعة.\n• إصلاح ترقية بيانات المتاجر القديمة.",
-    "en": "• Keep your saved login while offline.\n• Sync when data changes, with fewer requests while idle.\n• Improvements to notifications, barcodes and printing.\n• Fix upgrades for older shop data.",
-    "fr": "• Votre connexion reste enregistrée sans Internet.\n• Synchronisation lors des changements, avec moins de requêtes au repos.\n• Améliorations des notifications, codes-barres et impressions.\n• Correction de la mise à jour des anciennes boutiques."
+    "ar": "• تقارير أوضح وملخص يومي للمبيعات.\r\n• تحسين الملف الشخصي وتسجيل الدخول بحساب Google.\r\n• عرض أوضح للباقات والأسعار وفترة التجربة.\r\n• إعدادات جديدة لطباعة الوصل وتحسين التذكيرات.",
+    "en": "• Clearer reports and a daily sales summary.\r\n• Improved profile and Google account sign-in.\r\n• Clearer plans, prices and trial details.\r\n• New receipt settings and improved reminders.",
+    "fr": "• Rapports plus clairs et résumé quotidien des ventes.\r\n• Profil amélioré et connexion avec un compte Google.\r\n• Offres, prix et période d’essai plus clairs.\r\n• Nouveaux réglages des tickets et rappels améliorés."
   },
-  "sha256": "104759f38aff82457df96990693040d281ea2a788b0c6c09de33f73e9e163082",
-  "size": 34490373,
+  "sha256": "5b1616893e89470165d6e368d6fa856872dabd5e91a18eeac211f8dadae83eab",
+  "size": 35250471,
   "signed": false
 }

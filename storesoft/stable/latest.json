@@ -2,19 +2,19 @@
   "schemaVersion": 1,
   "channel": "stable",
   "environment": "production",
-  "releaseId": "2.5.0-549",
-  "version": "2.5.0",
-  "build": 549,
-  "commitSha": "6c75a10dc10790edcad34bc7e6cdbc9d85d53cb2",
+  "releaseId": "2.5.1-551",
+  "version": "2.5.1",
+  "build": 551,
+  "commitSha": "fd775732a63804a78ebd9e27a3ca0142caf97856",
   "productionEligible": true,
-  "downloadUrl": "https://github.com/dzstoredzd/dz-store-releases/releases/download/build-549/StoreSoft-2.5.0-549.exe",
-  "releasePageUrl": "https://github.com/dzstoredzd/dz-store-releases/releases/tag/build-549",
+  "downloadUrl": "https://github.com/dzstoredzd/dz-store-releases/releases/download/build-551/StoreSoft-2.5.1-551.exe",
+  "releasePageUrl": "https://github.com/dzstoredzd/dz-store-releases/releases/tag/build-551",
   "releaseNotes": {
-    "ar": "• استيراد المنتجات من Excel مباشرة من شاشة البيع الفارغة.\r\n• تحسين إدخال الوزن والسعر بلوحة المفاتيح على Windows.\r\n• تكبير نص الوصل وإضافة طباعة تلقائية اختيارية بعد البيع على Windows.\r\n• تحسين تسجيل نشاط المبيعات والمنتجات المضافة، حتى أثناء العمل دون إنترنت.",
-    "en": "• Import products from Excel directly from the empty sales screen.\r\n• Easier Windows keyboard entry for weight and price.\r\n• Larger receipt text and optional Windows auto print after sale.\r\n• Improved sale and added-product activity recording, including offline use.",
-    "fr": "• Importez vos produits depuis Excel sur l’écran de vente vide.\r\n• Saisie du poids et du prix au clavier facilitée sur Windows.\r\n• Texte des tickets agrandi et impression automatique facultative sur Windows.\r\n• Meilleur suivi des ventes et produits ajoutés, même hors ligne."
+    "ar": "• تعديل اسم الوحدة وسعر البيع والباركود مع حفظ سجل الأسعار.\n• أرشفة الوحدات دون فقدان المبيعات والمرتجعات السابقة.\n• منع بيع الوحدات المؤرشفة وحماية سجل المنتجات.\n• تحسين المزامنة والشبكة المحلية ورسائل الأخطاء.",
+    "en": "• Edit unit names, sale prices and barcodes, with price history.\n• Archive units while keeping earlier sales and returns.\n• Prevent archived units from being sold and preserve product history.\n• Improved Sync, local network handling and error messages.",
+    "fr": "• Modifiez le nom, le prix et le code-barres des unités, avec historique des prix.\n• Archivez les unités en conservant les ventes et retours passés.\n• Empêchez leur vente et préservez l’historique des produits.\n• Sync, réseau local et messages d’erreur améliorés."
   },
-  "sha256": "cd5440de6e0f4e2c2d7886cd7962b91be1497fcff5f48e88da7edda5d09ed160",
-  "size": 35263895,
+  "size": 35269275,
+  "sha256": "45d8ae75012c21df7dc3f768def0d48436c41a4f0adf10eb89c5b225e9456031",
   "signed": false
 }

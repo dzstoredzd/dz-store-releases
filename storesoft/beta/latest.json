@@ -2,19 +2,19 @@
   "schemaVersion": 1,
   "channel": "beta",
   "environment": "staging",
-  "releaseId": "2.5.0-548",
+  "releaseId": "2.5.0-550",
   "version": "2.5.0",
-  "build": 548,
-  "commitSha": "19c486a6909bdcc1e10d725eff174041798fea53",
+  "build": 550,
+  "commitSha": "03b3f3c9ab6eb30fcaad55d8d6aedb6acc8a4d95",
   "productionEligible": false,
-  "downloadUrl": "https://github.com/dzstoredzd/dz-store-releases/releases/download/build-548/StoreSoft-2.5.0-548.exe",
-  "releasePageUrl": "https://github.com/dzstoredzd/dz-store-releases/releases/tag/build-548",
+  "downloadUrl": "https://github.com/dzstoredzd/dz-store-releases/releases/download/build-550/StoreSoft-2.5.0-550.exe",
+  "releasePageUrl": "https://github.com/dzstoredzd/dz-store-releases/releases/tag/build-550",
   "releaseNotes": {
-    "ar": "• تتبع المبيعات والمنتجات المضافة للعملاء المرتبطين على Android.\r\n• حفظ وقت النشاط أثناء العمل دون إنترنت وتجنب تكرار العد.\r\n• احتساب بيع الصيانة بعد نجاح التسليم فقط.\r\n• نسخة تجريبية متصلة ببيئة الاختبار.",
-    "en": "• Sale and added-product activity for linked Android leads.\r\n• Offline reports keep their actual time and avoid duplicate counts.\r\n• Repair sales count only after delivery succeeds.\r\n• Beta build connected to the staging environment.",
-    "fr": "• Suivi des ventes et produits ajoutés pour les prospects Android liés.\r\n• Les rapports hors ligne gardent leur date réelle sans double comptage.\r\n• Les ventes de réparation comptent après une livraison réussie.\r\n• Version bêta connectée à l’environnement de test."
+    "ar": "• تعديل اسم الوحدة وسعر البيع والباركود مع حفظ سجل الأسعار.\n• أرشفة الوحدات دون فقدان المبيعات والمرتجعات السابقة.\n• منع بيع الوحدات المؤرشفة وتحسين المزامنة والشبكة المحلية.\n• استيراد Excel من شاشة البيع وتحسين لوحة المفاتيح والوصل على Windows.\n• نسخة تجريبية متصلة ببيئة الاختبار.",
+    "en": "• Edit unit names, sale prices and barcodes, with price history.\n• Archive units while keeping earlier sales and returns.\n• Block archived units from new sales; improve Sync and LAN handling.\n• Excel import from sales, easier Windows keyboard entry and improved receipts.\n• Beta build connected to staging.",
+    "fr": "• Modifiez le nom, le prix et le code-barres des unités, avec historique des prix.\n• Archivez les unités en conservant les ventes et retours passés.\n• Bloquez leur vente et améliorez la Sync et le réseau local.\n• Import Excel depuis la vente, saisie clavier et tickets Windows améliorés.\n• Version bêta connectée au test."
   },
-  "sha256": "f21d6dfc993186fd14bccb757b68d8735fce43ace9e5110de7fa84f4f24124c0",
-  "size": 35241070,
+  "size": 35266607,
+  "sha256": "2c14f0842b917c250a3e8ee8b0dc42cdad8132d4ca84af225e14fcb4468a2c84",
   "signed": false
 }

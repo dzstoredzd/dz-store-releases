@@ -2,19 +2,19 @@
   "schemaVersion": 1,
   "channel": "stable",
   "environment": "production",
-  "releaseId": "2.5.0-547",
+  "releaseId": "2.5.0-549",
   "version": "2.5.0",
-  "build": 547,
-  "commitSha": "b1ec0b777ab379eb3649f62d71fb8ffe8a443d41",
+  "build": 549,
+  "commitSha": "6c75a10dc10790edcad34bc7e6cdbc9d85d53cb2",
   "productionEligible": true,
-  "downloadUrl": "https://github.com/dzstoredzd/dz-store-releases/releases/download/build-547/StoreSoft-2.5.0-547.exe",
-  "releasePageUrl": "https://github.com/dzstoredzd/dz-store-releases/releases/tag/build-547",
+  "downloadUrl": "https://github.com/dzstoredzd/dz-store-releases/releases/download/build-549/StoreSoft-2.5.0-549.exe",
+  "releasePageUrl": "https://github.com/dzstoredzd/dz-store-releases/releases/tag/build-549",
   "releaseNotes": {
-    "ar": "• تقارير أوضح وملخص يومي للمبيعات.\r\n• تحسين الملف الشخصي وتسجيل الدخول بحساب Google.\r\n• عرض أوضح للباقات والأسعار وفترة التجربة.\r\n• إعدادات جديدة لطباعة الوصل وتحسين التذكيرات.",
-    "en": "• Clearer reports and a daily sales summary.\r\n• Improved profile and Google account sign-in.\r\n• Clearer plans, prices and trial details.\r\n• New receipt settings and improved reminders.",
-    "fr": "• Rapports plus clairs et résumé quotidien des ventes.\r\n• Profil amélioré et connexion avec un compte Google.\r\n• Offres, prix et période d’essai plus clairs.\r\n• Nouveaux réglages des tickets et rappels améliorés."
+    "ar": "• استيراد المنتجات من Excel مباشرة من شاشة البيع الفارغة.\r\n• تحسين إدخال الوزن والسعر بلوحة المفاتيح على Windows.\r\n• تكبير نص الوصل وإضافة طباعة تلقائية اختيارية بعد البيع على Windows.\r\n• تحسين تسجيل نشاط المبيعات والمنتجات المضافة، حتى أثناء العمل دون إنترنت.",
+    "en": "• Import products from Excel directly from the empty sales screen.\r\n• Easier Windows keyboard entry for weight and price.\r\n• Larger receipt text and optional Windows auto print after sale.\r\n• Improved sale and added-product activity recording, including offline use.",
+    "fr": "• Importez vos produits depuis Excel sur l’écran de vente vide.\r\n• Saisie du poids et du prix au clavier facilitée sur Windows.\r\n• Texte des tickets agrandi et impression automatique facultative sur Windows.\r\n• Meilleur suivi des ventes et produits ajoutés, même hors ligne."
   },
-  "sha256": "5b1616893e89470165d6e368d6fa856872dabd5e91a18eeac211f8dadae83eab",
-  "size": 35250471,
+  "sha256": "cd5440de6e0f4e2c2d7886cd7962b91be1497fcff5f48e88da7edda5d09ed160",
+  "size": 35263895,
   "signed": false
 }

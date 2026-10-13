@@ -2,19 +2,19 @@
   "schemaVersion": 1,
   "channel": "beta",
   "environment": "staging",
-  "releaseId": "2.5.0-550",
-  "version": "2.5.0",
-  "build": 550,
-  "commitSha": "03b3f3c9ab6eb30fcaad55d8d6aedb6acc8a4d95",
+  "releaseId": "2.6.0-552",
+  "version": "2.6.0",
+  "build": 552,
+  "commitSha": "f3c4770fff870f2ea369ffe045eb8e19fa7188f0",
   "productionEligible": false,
-  "downloadUrl": "https://github.com/dzstoredzd/dz-store-releases/releases/download/build-550/StoreSoft-2.5.0-550.exe",
-  "releasePageUrl": "https://github.com/dzstoredzd/dz-store-releases/releases/tag/build-550",
+  "downloadUrl": "https://github.com/dzstoredzd/dz-store-releases/releases/download/build-552/StoreSoft-2.6.0-552.exe",
+  "releasePageUrl": "https://github.com/dzstoredzd/dz-store-releases/releases/tag/build-552",
   "releaseNotes": {
-    "ar": "• تعديل اسم الوحدة وسعر البيع والباركود مع حفظ سجل الأسعار.\n• أرشفة الوحدات دون فقدان المبيعات والمرتجعات السابقة.\n• منع بيع الوحدات المؤرشفة وتحسين المزامنة والشبكة المحلية.\n• استيراد Excel من شاشة البيع وتحسين لوحة المفاتيح والوصل على Windows.\n• نسخة تجريبية متصلة ببيئة الاختبار.",
-    "en": "• Edit unit names, sale prices and barcodes, with price history.\n• Archive units while keeping earlier sales and returns.\n• Block archived units from new sales; improve Sync and LAN handling.\n• Excel import from sales, easier Windows keyboard entry and improved receipts.\n• Beta build connected to staging.",
-    "fr": "• Modifiez le nom, le prix et le code-barres des unités, avec historique des prix.\n• Archivez les unités en conservant les ventes et retours passés.\n• Bloquez leur vente et améliorez la Sync et le réseau local.\n• Import Excel depuis la vente, saisie clavier et tickets Windows améliorés.\n• Version bêta connectée au test."
+    "ar": "• اختيار لغة الجهاز عند أول تشغيل.\n• عرض الربح المتوقع عند إدخال أسعار المنتجات والمخزون.\n• إضافة أول منتج بسهولة من شاشة البيع.\n• إرسال ملف دعم واحد بموافقتك، مع سجل أخطاء أكثر تفصيلاً.\n• نسخة تجريبية متصلة ببيئة الاختبار.",
+    "en": "• Start in your device language on first use.\n• See estimated profit while entering product and stock prices.\n• Add your first product from the sales screen.\n• Send one support file with your consent and more detailed error logs.\n• Beta build connected to staging.",
+    "fr": "• Langue de l’appareil au premier démarrage.\n• Bénéfice estimé lors de la saisie des prix et du stock.\n• Ajoutez votre premier produit depuis la vente.\n• Envoyez un fichier d’assistance avec votre accord et des erreurs plus détaillées.\n• Version bêta connectée au test."
   },
-  "size": 35266607,
-  "sha256": "2c14f0842b917c250a3e8ee8b0dc42cdad8132d4ca84af225e14fcb4468a2c84",
+  "size": 35392220,
+  "sha256": "aaee747b9bbf0e3bb2d9ed4e495719ef9436d8311169d5bbc9282085b522b5e1",
   "signed": false
 }

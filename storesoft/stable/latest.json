@@ -2,19 +2,19 @@
   "schemaVersion": 1,
   "channel": "stable",
   "environment": "production",
-  "releaseId": "2.5.1-551",
-  "version": "2.5.1",
-  "build": 551,
-  "commitSha": "fd775732a63804a78ebd9e27a3ca0142caf97856",
+  "releaseId": "2.6.0-553",
+  "version": "2.6.0",
+  "build": 553,
+  "commitSha": "c64ef9b20a6501481afb1156dcb7d1e1b38878a1",
   "productionEligible": true,
-  "downloadUrl": "https://github.com/dzstoredzd/dz-store-releases/releases/download/build-551/StoreSoft-2.5.1-551.exe",
-  "releasePageUrl": "https://github.com/dzstoredzd/dz-store-releases/releases/tag/build-551",
+  "downloadUrl": "https://github.com/dzstoredzd/dz-store-releases/releases/download/build-553/StoreSoft-2.6.0-553.exe",
+  "releasePageUrl": "https://github.com/dzstoredzd/dz-store-releases/releases/tag/build-553",
   "releaseNotes": {
-    "ar": "• تعديل اسم الوحدة وسعر البيع والباركود مع حفظ سجل الأسعار.\n• أرشفة الوحدات دون فقدان المبيعات والمرتجعات السابقة.\n• منع بيع الوحدات المؤرشفة وحماية سجل المنتجات.\n• تحسين المزامنة والشبكة المحلية ورسائل الأخطاء.",
-    "en": "• Edit unit names, sale prices and barcodes, with price history.\n• Archive units while keeping earlier sales and returns.\n• Prevent archived units from being sold and preserve product history.\n• Improved Sync, local network handling and error messages.",
-    "fr": "• Modifiez le nom, le prix et le code-barres des unités, avec historique des prix.\n• Archivez les unités en conservant les ventes et retours passés.\n• Empêchez leur vente et préservez l’historique des produits.\n• Sync, réseau local et messages d’erreur améliorés."
+    "ar": "• اختيار لغة الجهاز عند أول تشغيل.\n• عرض الربح المتوقع عند إدخال أسعار المنتجات والمخزون.\n• إضافة أول منتج بسهولة من شاشة البيع.\n• إرسال ملف دعم واحد بموافقتك، مع سجل أخطاء أكثر تفصيلاً.",
+    "en": "• Start in your device language on first use.\n• See estimated profit while entering product and stock prices.\n• Add your first product from the sales screen.\n• Send one support file with your consent and more detailed error logs.",
+    "fr": "• Langue de l’appareil au premier démarrage.\n• Bénéfice estimé lors de la saisie des prix et du stock.\n• Ajoutez votre premier produit depuis la vente.\n• Envoyez un fichier d’assistance avec votre accord et des erreurs plus détaillées."
   },
-  "size": 35269275,
-  "sha256": "45d8ae75012c21df7dc3f768def0d48436c41a4f0adf10eb89c5b225e9456031",
+  "size": 35395645,
+  "sha256": "580291c91a2f12072782abf469a580c8a536256e70edc61b7eb6e9552d68808a",
   "signed": false
 }

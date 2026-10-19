@@ -2,19 +2,19 @@
   "schemaVersion": 1,
   "channel": "stable",
   "environment": "production",
-  "releaseId": "2.6.0-553",
-  "version": "2.6.0",
-  "build": 553,
-  "commitSha": "c64ef9b20a6501481afb1156dcb7d1e1b38878a1",
+  "releaseId": "2.7.0-555",
+  "version": "2.7.0",
+  "build": 555,
+  "commitSha": "65ead4ec260c925247fcdc6a0d4977f38071ceef",
   "productionEligible": true,
-  "downloadUrl": "https://github.com/dzstoredzd/dz-store-releases/releases/download/build-553/StoreSoft-2.6.0-553.exe",
-  "releasePageUrl": "https://github.com/dzstoredzd/dz-store-releases/releases/tag/build-553",
   "releaseNotes": {
-    "ar": "• اختيار لغة الجهاز عند أول تشغيل.\n• عرض الربح المتوقع عند إدخال أسعار المنتجات والمخزون.\n• إضافة أول منتج بسهولة من شاشة البيع.\n• إرسال ملف دعم واحد بموافقتك، مع سجل أخطاء أكثر تفصيلاً.",
-    "en": "• Start in your device language on first use.\n• See estimated profit while entering product and stock prices.\n• Add your first product from the sales screen.\n• Send one support file with your consent and more detailed error logs.",
-    "fr": "• Langue de l’appareil au premier démarrage.\n• Bénéfice estimé lors de la saisie des prix et du stock.\n• Ajoutez votre premier produit depuis la vente.\n• Envoyez un fichier d’assistance avec votre accord et des erreurs plus détaillées."
+    "ar": "• نقاط الوفاء للزبائن مع إعدادات وإيصالات واضحة.\n• عند الإرجاع، تبقى النقاط المستعملة مخصومة وتُلغى النقاط المكتسبة.\n• تحسين حساب الربح بعد إرجاع المنتجات بالكامل.\n• تحسين قائمة الزبائن وإتاحة تعليق اختياري لكل التقييمات.\n• نسخة Windows للتجربة قبل الإصدار العام.",
+    "en": "• Customer loyalty points with clear settings and receipts.\n• Refunds keep spent points deducted and reverse earned points.\n• Improved profit after fully restocked returns.\n• Improved customer list and optional comments for every rating.\n• Windows preview for testing before general release.",
+    "fr": "• Points de fidélité avec réglages et tickets clairs.\n• Les retours gardent les points dépensés déduits et annulent les points gagnés.\n• Bénéfice amélioré après un retour complet remis en stock.\n• Liste des clients améliorée et commentaire facultatif pour chaque note.\n• Version Windows à tester avant la sortie générale."
   },
-  "size": 35395645,
-  "sha256": "580291c91a2f12072782abf469a580c8a536256e70edc61b7eb6e9552d68808a",
+  "downloadUrl": "https://github.com/dzstoredzd/dz-store-releases/releases/download/v2.7.0-555/StoreSoft-2.7.0-555.exe",
+  "releasePageUrl": "https://github.com/dzstoredzd/dz-store-releases/releases/tag/v2.7.0-555",
+  "sha256": "c782f8d1578761418d17f0bde2b9beeb441aba2f7d84fd2203701e7bb7597ff8",
+  "size": 35513548,
   "signed": false
 }

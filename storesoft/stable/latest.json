@@ -2,19 +2,19 @@
   "schemaVersion": 1,
   "channel": "stable",
   "environment": "production",
-  "releaseId": "2.7.0-555",
-  "version": "2.7.0",
-  "build": 555,
-  "commitSha": "65ead4ec260c925247fcdc6a0d4977f38071ceef",
+  "releaseId": "2.10.0-558",
+  "version": "2.10.0",
+  "build": 558,
+  "commitSha": "609d19cf7edfb752ed55d50a7f83382400872125",
   "productionEligible": true,
   "releaseNotes": {
-    "ar": "• نقاط الوفاء للزبائن مع إعدادات وإيصالات واضحة.\n• عند الإرجاع، تبقى النقاط المستعملة مخصومة وتُلغى النقاط المكتسبة.\n• تحسين حساب الربح بعد إرجاع المنتجات بالكامل.\n• تحسين قائمة الزبائن وإتاحة تعليق اختياري لكل التقييمات.\n• نسخة Windows للتجربة قبل الإصدار العام.",
-    "en": "• Customer loyalty points with clear settings and receipts.\n• Refunds keep spent points deducted and reverse earned points.\n• Improved profit after fully restocked returns.\n• Improved customer list and optional comments for every rating.\n• Windows preview for testing before general release.",
-    "fr": "• Points de fidélité avec réglages et tickets clairs.\n• Les retours gardent les points dépensés déduits et annulent les points gagnés.\n• Bénéfice amélioré après un retour complet remis en stock.\n• Liste des clients améliorée et commentaire facultatif pour chaque note.\n• Version Windows à tester avant la sortie générale."
+    "ar": "• بعد الدخول إلى متجر موجود، يظهر تقدم تحميل بيانات المتجر قبل البيع.\n• إذا توقف التحميل: زر إعادة المحاولة أو تسجيل الخروج.\n• إصلاح: بعد خروج الموظف، أزرار شاشة الترحيب تفتح الصفحة الصحيحة.",
+    "en": "• After signing in to an existing shop, you see the shop data download before selling.\n• If the download stops: Try again or Sign out.\n• Fix: after an employee signs out, the welcome screen buttons open the right page.",
+    "fr": "• Après la connexion à une boutique existante, le téléchargement des données s'affiche avant la vente.\n• Si le téléchargement s'arrête : Réessayer ou Se déconnecter.\n• Correction : après la déconnexion d'un employé, les boutons de l'écran d'accueil ouvrent la bonne page."
   },
-  "downloadUrl": "https://github.com/dzstoredzd/dz-store-releases/releases/download/v2.7.0-555/StoreSoft-2.7.0-555.exe",
-  "releasePageUrl": "https://github.com/dzstoredzd/dz-store-releases/releases/tag/v2.7.0-555",
-  "sha256": "c782f8d1578761418d17f0bde2b9beeb441aba2f7d84fd2203701e7bb7597ff8",
-  "size": 35513548,
+  "downloadUrl": "https://github.com/dzstoredzd/dz-store-releases/releases/download/v2.10.0-558/StoreSoft-2.10.0-558.exe",
+  "releasePageUrl": "https://github.com/dzstoredzd/dz-store-releases/releases/tag/v2.10.0-558",
+  "sha256": "ce66f41a913f64bca1a1fad4455e0f8afd9557571cab1dc5a78d17b324599c4e",
+  "size": 35516131,
   "signed": false
 }

@@ -2,19 +2,19 @@
   "schemaVersion": 1,
   "channel": "stable",
   "environment": "production",
-  "releaseId": "2.10.0-558",
-  "version": "2.10.0",
-  "build": 558,
-  "commitSha": "609d19cf7edfb752ed55d50a7f83382400872125",
+  "releaseId": "2.11.0-559",
+  "version": "2.11.0",
+  "build": 559,
+  "commitSha": "f43f1e4e9d5e30583ec6b82d485b457d51ad301a",
   "productionEligible": true,
   "releaseNotes": {
-    "ar": "• بعد الدخول إلى متجر موجود، يظهر تقدم تحميل بيانات المتجر قبل البيع.\n• إذا توقف التحميل: زر إعادة المحاولة أو تسجيل الخروج.\n• إصلاح: بعد خروج الموظف، أزرار شاشة الترحيب تفتح الصفحة الصحيحة.",
-    "en": "• After signing in to an existing shop, you see the shop data download before selling.\n• If the download stops: Try again or Sign out.\n• Fix: after an employee signs out, the welcome screen buttons open the right page.",
-    "fr": "• Après la connexion à une boutique existante, le téléchargement des données s'affiche avant la vente.\n• Si le téléchargement s'arrête : Réessayer ou Se déconnecter.\n• Correction : après la déconnexion d'un employé, les boutons de l'écran d'accueil ouvrent la bonne page."
+    "ar": "• مظهر جديد أوضح على الهاتف: البيع، السلة، المنتجات، الزبائن، التصليح، التقارير والإعدادات.\n• سجل المبيعات أوضح: حسب اليوم، تفاصيل الدفع والمرتجعات، وعلامة للبيع بدون سعر شراء.\n• شاشة ترحيب أبسط، ودليل البداية لمتجر جديد.\n• إصلاح: مبلغ بدون سنتيمات يُحسب مدفوعاً بالكامل وليس ديناً صغيراً.\n• إصلاح: إغلاق مفاجئ للتطبيق على ويندوز بسبب الإشعارات.",
+    "en": "• New, clearer phone look: selling, cart, products, customers, repairs, reports and settings.\n• Clearer sales history: by day, payment and return details, and a mark for sales without a purchase price.\n• Simpler welcome screen and a Get started guide for new shops.\n• Fix: a total shown without centimes is fully paid, not a small debt.\n• Fix: the Windows app could close suddenly because of notifications.",
+    "fr": "• Nouveau look plus clair sur téléphone : vente, panier, produits, clients, réparations, rapports et paramètres.\n• Historique des ventes plus clair : par jour, détails du paiement et des retours, et une marque pour les ventes sans prix d'achat.\n• Écran d'accueil plus simple et guide de démarrage pour les nouvelles boutiques.\n• Correction : un total affiché sans centimes est payé en entier, pas une petite dette.\n• Correction : l'application Windows pouvait se fermer à cause des notifications."
   },
-  "downloadUrl": "https://github.com/dzstoredzd/dz-store-releases/releases/download/v2.10.0-558/StoreSoft-2.10.0-558.exe",
-  "releasePageUrl": "https://github.com/dzstoredzd/dz-store-releases/releases/tag/v2.10.0-558",
-  "sha256": "ce66f41a913f64bca1a1fad4455e0f8afd9557571cab1dc5a78d17b324599c4e",
-  "size": 35516131,
+  "downloadUrl": "https://github.com/dzstoredzd/dz-store-releases/releases/download/v2.11.0-559/StoreSoft-2.11.0-559.exe",
+  "releasePageUrl": "https://github.com/dzstoredzd/dz-store-releases/releases/tag/v2.11.0-559",
+  "sha256": "d81f4e7d2cb8f5d806dd73562e117ebfe00bb001fbc4cf5004831a17a5110a70",
+  "size": 36076991,
   "signed": false
 }

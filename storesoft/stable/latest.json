@@ -2,19 +2,19 @@
   "schemaVersion": 1,
   "channel": "stable",
   "environment": "production",
-  "releaseId": "2.11.0-559",
-  "version": "2.11.0",
-  "build": 559,
-  "commitSha": "f43f1e4e9d5e30583ec6b82d485b457d51ad301a",
+  "releaseId": "2.12.0-560",
+  "version": "2.12.0",
+  "build": 560,
+  "commitSha": "9e22ee495b841f1d76473abae4c56a88ee973205",
   "productionEligible": true,
   "releaseNotes": {
-    "ar": "• مظهر جديد أوضح على الهاتف: البيع، السلة، المنتجات، الزبائن، التصليح، التقارير والإعدادات.\n• سجل المبيعات أوضح: حسب اليوم، تفاصيل الدفع والمرتجعات، وعلامة للبيع بدون سعر شراء.\n• شاشة ترحيب أبسط، ودليل البداية لمتجر جديد.\n• إصلاح: مبلغ بدون سنتيمات يُحسب مدفوعاً بالكامل وليس ديناً صغيراً.\n• إصلاح: إغلاق مفاجئ للتطبيق على ويندوز بسبب الإشعارات.",
-    "en": "• New, clearer phone look: selling, cart, products, customers, repairs, reports and settings.\n• Clearer sales history: by day, payment and return details, and a mark for sales without a purchase price.\n• Simpler welcome screen and a Get started guide for new shops.\n• Fix: a total shown without centimes is fully paid, not a small debt.\n• Fix: the Windows app could close suddenly because of notifications.",
-    "fr": "• Nouveau look plus clair sur téléphone : vente, panier, produits, clients, réparations, rapports et paramètres.\n• Historique des ventes plus clair : par jour, détails du paiement et des retours, et une marque pour les ventes sans prix d'achat.\n• Écran d'accueil plus simple et guide de démarrage pour les nouvelles boutiques.\n• Correction : un total affiché sans centimes est payé en entier, pas une petite dette.\n• Correction : l'application Windows pouvait se fermer à cause des notifications."
+    "ar": "• البيع الأول بمساعدة على الهاتف: تلميح صغير يريك الزر التالي خطوة بخطوة.\n• بطاقة \"خطوات البداية\" أصبحت داخل قائمة المنتجات على الهاتف، أقصر وأوضح.\n• إصلاح: بعد تسجيل الدخول بحساب Google على ويندوز، تظهر صفحة تقول إنه يمكنك الرجوع إلى التطبيق.",
+    "en": "• Guided first sale on phones: a small hint shows you the next button, step by step.\n• The Get started card now sits inside the phone product list, shorter and clearer.\n• Fix: after Google sign-in on Windows, the browser shows a page telling you to go back to the app.",
+    "fr": "• Première vente guidée sur téléphone : une petite bulle vous montre le bouton suivant, étape par étape.\n• La carte « Premiers pas » est maintenant dans la liste des produits sur téléphone, plus courte et plus claire.\n• Correction : après la connexion Google sur Windows, le navigateur affiche une page pour revenir à l'application."
   },
-  "downloadUrl": "https://github.com/dzstoredzd/dz-store-releases/releases/download/v2.11.0-559/StoreSoft-2.11.0-559.exe",
-  "releasePageUrl": "https://github.com/dzstoredzd/dz-store-releases/releases/tag/v2.11.0-559",
-  "sha256": "d81f4e7d2cb8f5d806dd73562e117ebfe00bb001fbc4cf5004831a17a5110a70",
-  "size": 36076991,
+  "downloadUrl": "https://github.com/dzstoredzd/dz-store-releases/releases/download/v2.12.0-560/StoreSoft-2.12.0-560.exe",
+  "releasePageUrl": "https://github.com/dzstoredzd/dz-store-releases/releases/tag/v2.12.0-560",
+  "sha256": "d8ef2d45c969035f4f81fd64b9ccb22f4be1705cbe0c856f63fa21f937589a8a",
+  "size": 36093038,
   "signed": false
 }

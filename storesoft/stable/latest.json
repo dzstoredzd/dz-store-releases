@@ -2,19 +2,19 @@
   "schemaVersion": 1,
   "channel": "stable",
   "environment": "production",
-  "releaseId": "2.12.0-560",
-  "version": "2.12.0",
-  "build": 560,
-  "commitSha": "9e22ee495b841f1d76473abae4c56a88ee973205",
+  "releaseId": "2.13.0-561",
+  "version": "2.13.0",
+  "build": 561,
+  "commitSha": "2c38217499033389076ea0a8f193fd7694e147b9",
   "productionEligible": true,
   "releaseNotes": {
-    "ar": "• البيع الأول بمساعدة على الهاتف: تلميح صغير يريك الزر التالي خطوة بخطوة.\n• بطاقة \"خطوات البداية\" أصبحت داخل قائمة المنتجات على الهاتف، أقصر وأوضح.\n• إصلاح: بعد تسجيل الدخول بحساب Google على ويندوز، تظهر صفحة تقول إنه يمكنك الرجوع إلى التطبيق.",
-    "en": "• Guided first sale on phones: a small hint shows you the next button, step by step.\n• The Get started card now sits inside the phone product list, shorter and clearer.\n• Fix: after Google sign-in on Windows, the browser shows a page telling you to go back to the app.",
-    "fr": "• Première vente guidée sur téléphone : une petite bulle vous montre le bouton suivant, étape par étape.\n• La carte « Premiers pas » est maintenant dans la liste des produits sur téléphone, plus courte et plus claire.\n• Correction : après la connexion Google sur Windows, le navigateur affiche une page pour revenir à l'application."
+    "ar": "• بيع أسرع وقت الزحمة، حتى مع المزامنة وكثرة المنتجات.\n• على الهاتف: بعد البيع تظهر رسالة \"تم تسجيل البيع\" مع زر الوصل بدل نافذة الوصل.\n• الإعدادات مرتبة من جديد في مجموعات أوضح.\n• التجربة المجانية: شريط يبين الأيام الباقية، وشاشة أوضح عند نهايتها.\n• الوصل ووصل التصليح يُطبعان بخط التطبيق، والأسطر الطويلة لم تعد تُقطع.",
+    "en": "• Faster selling at rush time, also with Sync and many products.\n• Phones: after a sale, \"Sale recorded\" with a Receipt button, no popup.\n• Settings regrouped more clearly.\n• Free trial: a bar shows the days left, and a clearer screen when it ends.\n• Receipts and repair tickets print in the app font, and long lines are no longer cut.",
+    "fr": "• Vente plus rapide aux heures de pointe, même avec la synchro et beaucoup de produits.\n• Téléphone : après une vente, « Vente enregistrée » avec un bouton Ticket, sans fenêtre.\n• Paramètres regroupés plus clairement.\n• Essai gratuit : une barre montre les jours restants ; écran plus clair à la fin.\n• Tickets imprimés avec la police de l'application ; les longues lignes ne sont plus coupées."
   },
-  "downloadUrl": "https://github.com/dzstoredzd/dz-store-releases/releases/download/v2.12.0-560/StoreSoft-2.12.0-560.exe",
-  "releasePageUrl": "https://github.com/dzstoredzd/dz-store-releases/releases/tag/v2.12.0-560",
-  "sha256": "d8ef2d45c969035f4f81fd64b9ccb22f4be1705cbe0c856f63fa21f937589a8a",
-  "size": 36093038,
+  "downloadUrl": "https://github.com/dzstoredzd/dz-store-releases/releases/download/v2.13.0-561/StoreSoft-2.13.0-561.exe",
+  "releasePageUrl": "https://github.com/dzstoredzd/dz-store-releases/releases/tag/v2.13.0-561",
+  "sha256": "db0ac7c69314eefcb0a4a704b5c94d0960679ac440c4400eaa3e64d5c13c9f18",
+  "size": 36138551,
   "signed": false
 }

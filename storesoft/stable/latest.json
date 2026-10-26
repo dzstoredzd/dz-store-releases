@@ -2,19 +2,19 @@
   "schemaVersion": 1,
   "channel": "stable",
   "environment": "production",
-  "releaseId": "2.13.0-561",
-  "version": "2.13.0",
-  "build": 561,
-  "commitSha": "2c38217499033389076ea0a8f193fd7694e147b9",
+  "releaseId": "2.15.0-563",
+  "version": "2.15.0",
+  "build": 563,
+  "commitSha": "c10383ad6ff327d8927ddc88edc9ec1add3ff7e5",
   "productionEligible": true,
   "releaseNotes": {
-    "ar": "• بيع أسرع وقت الزحمة، حتى مع المزامنة وكثرة المنتجات.\n• على الهاتف: بعد البيع تظهر رسالة \"تم تسجيل البيع\" مع زر الوصل بدل نافذة الوصل.\n• الإعدادات مرتبة من جديد في مجموعات أوضح.\n• التجربة المجانية: شريط يبين الأيام الباقية، وشاشة أوضح عند نهايتها.\n• الوصل ووصل التصليح يُطبعان بخط التطبيق، والأسطر الطويلة لم تعد تُقطع.",
-    "en": "• Faster selling at rush time, also with Sync and many products.\n• Phones: after a sale, \"Sale recorded\" with a Receipt button, no popup.\n• Settings regrouped more clearly.\n• Free trial: a bar shows the days left, and a clearer screen when it ends.\n• Receipts and repair tickets print in the app font, and long lines are no longer cut.",
-    "fr": "• Vente plus rapide aux heures de pointe, même avec la synchro et beaucoup de produits.\n• Téléphone : après une vente, « Vente enregistrée » avec un bouton Ticket, sans fenêtre.\n• Paramètres regroupés plus clairement.\n• Essai gratuit : une barre montre les jours restants ; écran plus clair à la fin.\n• Tickets imprimés avec la police de l'application ; les longues lignes ne sont plus coupées."
+    "ar": "• متجر جديد: صفحة \"إعداد محلك\" (الاسم، البلد، النشاط) والعملة حسب البلد.\n• الهاتف: مساعدة لإضافة أول منتج، وشاشة بيع أبسط.\n• التصليح: تعديل التسبيق، والاتصال بالزبون بلمسة.\n• ملخص المبيعات كل صباح يُقترح بعد أول بيع.\n• صاحب المتجر يمكنه تغيير العملة في أي وقت.",
+    "en": "• New shop: a \"Set up your shop\" page (name, country, activity) with the currency from the country.\n• Phone: help to add your first product, and a simpler Sell screen.\n• Repairs: change the deposit, and call the client in one tap.\n• The morning sales summary is offered after your first sale.\n• The owner can change the shop currency at any time.",
+    "fr": "• Nouvelle boutique : une page « Configurer votre magasin » (nom, pays, activité) avec la devise du pays.\n• Téléphone : aide pour ajouter votre premier produit, et un écran Vente plus simple.\n• Réparations : modifier l'avance, et appeler le client en un geste.\n• Le résumé des ventes du matin est proposé après votre première vente.\n• Le propriétaire peut changer la devise à tout moment."
   },
-  "downloadUrl": "https://github.com/dzstoredzd/dz-store-releases/releases/download/v2.13.0-561/StoreSoft-2.13.0-561.exe",
-  "releasePageUrl": "https://github.com/dzstoredzd/dz-store-releases/releases/tag/v2.13.0-561",
-  "sha256": "db0ac7c69314eefcb0a4a704b5c94d0960679ac440c4400eaa3e64d5c13c9f18",
-  "size": 36138551,
+  "downloadUrl": "https://github.com/dzstoredzd/dz-store-releases/releases/download/v2.15.0-563/StoreSoft-2.15.0-563.exe",
+  "releasePageUrl": "https://github.com/dzstoredzd/dz-store-releases/releases/tag/v2.15.0-563",
+  "sha256": "61a7ebf336adc7ccef55acce1d00bef84efae0474ca845305739de790b2fe537",
+  "size": 24352746,
   "signed": false
 }

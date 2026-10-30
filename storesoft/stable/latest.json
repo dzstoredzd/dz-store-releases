@@ -2,19 +2,19 @@
   "schemaVersion": 1,
   "channel": "stable",
   "environment": "production",
-  "releaseId": "2.18.0-568",
-  "version": "2.18.0",
-  "build": 568,
-  "commitSha": "965220ec0ee38bfd258af5d9b97772a229eda0d3",
+  "releaseId": "2.19.0-569",
+  "version": "2.19.0",
+  "build": 569,
+  "commitSha": "c210e47fd2a68a311bcb9e81a8c74a7bf6a2c4cc",
   "productionEligible": true,
   "releaseNotes": {
-    "ar": "• الهاتف: شاشة دفع جديدة وأوضح، مع الباقي والدين في لمحة.\n• الهاتف: صفحات جديدة للزبائن والإعدادات والمزامنة.\n• صفحة واحدة لتسجيل الدخول أو إنشاء حساب.\n• مركز المساعدة: دليل مكتوب بسيط مع بحث.\n• المبالغ الصغيرة تظهر كاملة (0,50 لا تصبح 0).\n• ألوان أهدأ.",
-    "en": "• Phone: a new, clearer payment screen with change and debt at a glance.\n• Phone: new customer, settings and Sync pages.\n• One page to sign in or create an account.\n• Help Center: a simple written guide with search.\n• Amounts keep their centimes when they have some (0.50 no longer shows 0).\n• Calmer colors.",
-    "fr": "• Téléphone : un nouvel écran de paiement plus clair, monnaie et crédit d'un coup d'œil.\n• Téléphone : nouvelles pages clients, paramètres et Sync.\n• Une seule page pour se connecter ou créer un compte.\n• Centre d'aide : un guide écrit simple avec recherche.\n• Les montants gardent leurs centimes quand il y en a (0,50 ne devient plus 0).\n• Des couleurs plus calmes."
+    "ar": "• الدفع بالبطاقة: نقدًا أو بطاقة عند الدفع (يُفعَّل من الإعدادات).\n• السلال المفتوحة تبقى بعد إغلاق التطبيق.\n• نسيت كلمة المرور؟ يصلك رمز من 6 أرقام بالبريد.\n• بحث أذكى في كل التطبيق.\n• المبالغ بالعربية تُطبع بالترتيب الصحيح في الإيصال.\n• نموذج واحد للمشاكل والأفكار والآراء.\n• للمحلات خارج الجزائر: عملتها وكلماتها وأشهرها.",
+    "en": "• Card payments: pay by cash or card (turn it on in Settings).\n• Open carts stay after the app is closed.\n• Forgot password? Get a 6-digit code by email.\n• Smarter search across the app.\n• Arabic amounts print in the right order on receipts.\n• One form for problems, ideas and opinions.\n• Shops outside Algeria: their own currency, words and months.",
+    "fr": "• Paiement par carte : espèces ou carte à l'encaissement (à activer dans les Paramètres).\n• Les paniers ouverts restent après la fermeture de l'application.\n• Mot de passe oublié ? Recevez un code à 6 chiffres par e-mail.\n• Recherche plus intelligente dans toute l'application.\n• Les montants en arabe s'impriment dans le bon ordre sur le ticket.\n• Un seul formulaire pour les problèmes, idées et avis.\n• Boutiques hors d'Algérie : leur monnaie, leurs mots et leurs mois."
   },
-  "downloadUrl": "https://github.com/dzstoredzd/dz-store-releases/releases/download/v2.18.0-568/StoreSoft-2.18.0-568.exe",
-  "releasePageUrl": "https://github.com/dzstoredzd/dz-store-releases/releases/tag/v2.18.0-568",
-  "sha256": "60c2060e2dd965b7332adb948b914f49cc6c64a6b92276ad18066139ae44d84d",
-  "size": 20016947,
+  "downloadUrl": "https://github.com/dzstoredzd/dz-store-releases/releases/download/v2.19.0-569/StoreSoft-2.19.0-569.exe",
+  "releasePageUrl": "https://github.com/dzstoredzd/dz-store-releases/releases/tag/v2.19.0-569",
+  "sha256": "a2704edef738ae9987ff82f0419ca1b12d62c0df1a1e8952e3317bc8e736969c",
+  "size": 20060410,
   "signed": false
 }

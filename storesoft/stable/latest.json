@@ -2,19 +2,19 @@
   "schemaVersion": 1,
   "channel": "stable",
   "environment": "production",
-  "releaseId": "2.19.0-569",
-  "version": "2.19.0",
-  "build": 569,
-  "commitSha": "c210e47fd2a68a311bcb9e81a8c74a7bf6a2c4cc",
+  "releaseId": "2.20.1-571",
+  "version": "2.20.1",
+  "build": 571,
+  "commitSha": "a8f37e4ace3bea9e6a0bf1e2a8422d65a55454cf",
   "productionEligible": true,
   "releaseNotes": {
-    "ar": "• الدفع بالبطاقة: نقدًا أو بطاقة عند الدفع (يُفعَّل من الإعدادات).\n• السلال المفتوحة تبقى بعد إغلاق التطبيق.\n• نسيت كلمة المرور؟ يصلك رمز من 6 أرقام بالبريد.\n• بحث أذكى في كل التطبيق.\n• المبالغ بالعربية تُطبع بالترتيب الصحيح في الإيصال.\n• نموذج واحد للمشاكل والأفكار والآراء.\n• للمحلات خارج الجزائر: عملتها وكلماتها وأشهرها.",
-    "en": "• Card payments: pay by cash or card (turn it on in Settings).\n• Open carts stay after the app is closed.\n• Forgot password? Get a 6-digit code by email.\n• Smarter search across the app.\n• Arabic amounts print in the right order on receipts.\n• One form for problems, ideas and opinions.\n• Shops outside Algeria: their own currency, words and months.",
-    "fr": "• Paiement par carte : espèces ou carte à l'encaissement (à activer dans les Paramètres).\n• Les paniers ouverts restent après la fermeture de l'application.\n• Mot de passe oublié ? Recevez un code à 6 chiffres par e-mail.\n• Recherche plus intelligente dans toute l'application.\n• Les montants en arabe s'impriment dans le bon ordre sur le ticket.\n• Un seul formulaire pour les problèmes, idées et avis.\n• Boutiques hors d'Algérie : leur monnaie, leurs mots et leurs mois."
+    "ar": "• مزامنة سحابية أسرع للمحلات الكبيرة: البيع لا يتوقف أثناء المزامنة.\n• يمكن للموظف أيضًا إرسال ملف التشخيص إلى الدعم.\n• على الهاتف، لم تعد الأزرار أسفل النوافذ مخفية تحت شريط أزرار أندرويد.\n• صفحة القفل بعد انتهاء التجربة تفتح أسرع، وتُحذف نسخ التحديث القديمة لتوفير المساحة.",
+    "en": "• Faster Cloud Sync for big shops: selling no longer pauses while Sync works.\n• Employees can also send the diagnostic file to support.\n• On phones, the buttons at the bottom of panels are no longer hidden under Android's button bar.\n• The locked page after the trial opens faster; old update copies are removed to save space.",
+    "fr": "• Synchro Cloud plus rapide pour les grandes boutiques : la vente ne s'arrête plus pendant la synchro.\n• Les employés peuvent aussi envoyer le fichier de diagnostic au support.\n• Sur téléphone, les boutons en bas des panneaux ne sont plus cachés sous la barre de boutons Android.\n• La page verrouillée après l'essai s'ouvre plus vite ; les anciennes copies de mise à jour sont supprimées."
   },
-  "downloadUrl": "https://github.com/dzstoredzd/dz-store-releases/releases/download/v2.19.0-569/StoreSoft-2.19.0-569.exe",
-  "releasePageUrl": "https://github.com/dzstoredzd/dz-store-releases/releases/tag/v2.19.0-569",
-  "sha256": "a2704edef738ae9987ff82f0419ca1b12d62c0df1a1e8952e3317bc8e736969c",
-  "size": 20060410,
+  "downloadUrl": "https://github.com/dzstoredzd/dz-store-releases/releases/download/v2.20.1-571/StoreSoft-2.20.1-571.exe",
+  "releasePageUrl": "https://github.com/dzstoredzd/dz-store-releases/releases/tag/v2.20.1-571",
+  "sha256": "451f5796d7818d1c8727cf17b378d87e77293d01a4ce3a88968ad5141d6c271b",
+  "size": 20110755,
   "signed": false
 }

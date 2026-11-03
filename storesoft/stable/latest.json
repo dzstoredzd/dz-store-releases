@@ -2,19 +2,19 @@
   "schemaVersion": 1,
   "channel": "stable",
   "environment": "production",
-  "releaseId": "2.20.1-571",
-  "version": "2.20.1",
-  "build": 571,
-  "commitSha": "a8f37e4ace3bea9e6a0bf1e2a8422d65a55454cf",
+  "releaseId": "2.21.0-573",
+  "version": "2.21.0",
+  "build": 573,
+  "commitSha": "6f17dadc67521306843b61ccca8d1875c5742e39",
   "productionEligible": true,
   "releaseNotes": {
-    "ar": "• مزامنة سحابية أسرع للمحلات الكبيرة: البيع لا يتوقف أثناء المزامنة.\n• يمكن للموظف أيضًا إرسال ملف التشخيص إلى الدعم.\n• على الهاتف، لم تعد الأزرار أسفل النوافذ مخفية تحت شريط أزرار أندرويد.\n• صفحة القفل بعد انتهاء التجربة تفتح أسرع، وتُحذف نسخ التحديث القديمة لتوفير المساحة.",
-    "en": "• Faster Cloud Sync for big shops: selling no longer pauses while Sync works.\n• Employees can also send the diagnostic file to support.\n• On phones, the buttons at the bottom of panels are no longer hidden under Android's button bar.\n• The locked page after the trial opens faster; old update copies are removed to save space.",
-    "fr": "• Synchro Cloud plus rapide pour les grandes boutiques : la vente ne s'arrête plus pendant la synchro.\n• Les employés peuvent aussi envoyer le fichier de diagnostic au support.\n• Sur téléphone, les boutons en bas des panneaux ne sont plus cachés sous la barre de boutons Android.\n• La page verrouillée après l'essai s'ouvre plus vite ; les anciennes copies de mise à jour sont supprimées."
+    "ar": "• عند إعداد المحل لأول مرة، يقترح التطبيق بلدك بدقة أكبر: من شريحة الهاتف أو المنطقة الزمنية على أندرويد، ومن إعداد \"البلد أو المنطقة\" على ويندوز. دون إنترنت ودون أي إذن.\n• يمكنك دائمًا اختيار بلد آخر وعملته بنفسك.",
+    "en": "• When you set up your shop for the first time, the app now proposes your country more accurately: from the SIM card or time zone on Android, and from the \"Country or region\" setting on Windows. No internet, no permission.\n• You can still pick another country and its currency yourself.",
+    "fr": "• À la première configuration de la boutique, l'application propose votre pays plus justement : depuis la carte SIM ou le fuseau horaire sur Android, et depuis le réglage « Pays ou région » sur Windows. Sans internet, sans autorisation.\n• Vous pouvez toujours choisir un autre pays et sa devise vous-même."
   },
-  "downloadUrl": "https://github.com/dzstoredzd/dz-store-releases/releases/download/v2.20.1-571/StoreSoft-2.20.1-571.exe",
-  "releasePageUrl": "https://github.com/dzstoredzd/dz-store-releases/releases/tag/v2.20.1-571",
-  "sha256": "451f5796d7818d1c8727cf17b378d87e77293d01a4ce3a88968ad5141d6c271b",
-  "size": 20110755,
+  "downloadUrl": "https://github.com/dzstoredzd/dz-store-releases/releases/download/v2.21.0-573/StoreSoft-2.21.0-573.exe",
+  "releasePageUrl": "https://github.com/dzstoredzd/dz-store-releases/releases/tag/v2.21.0-573",
+  "sha256": "5d8174e075788f26c3ad35e1d7764fe244e2ec59ea6715a06c2890dd950515af",
+  "size": 20112445,
   "signed": false
 }

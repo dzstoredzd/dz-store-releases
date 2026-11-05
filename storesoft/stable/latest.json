@@ -2,19 +2,19 @@
   "schemaVersion": 1,
   "channel": "stable",
   "environment": "production",
-  "releaseId": "2.21.0-573",
-  "version": "2.21.0",
-  "build": 573,
-  "commitSha": "6f17dadc67521306843b61ccca8d1875c5742e39",
+  "releaseId": "2.22.1-575",
+  "version": "2.22.1",
+  "build": 575,
+  "commitSha": "92e0de6fabab49ca199c82f76755c9008d19fd34",
   "productionEligible": true,
   "releaseNotes": {
-    "ar": "• عند إعداد المحل لأول مرة، يقترح التطبيق بلدك بدقة أكبر: من شريحة الهاتف أو المنطقة الزمنية على أندرويد، ومن إعداد \"البلد أو المنطقة\" على ويندوز. دون إنترنت ودون أي إذن.\n• يمكنك دائمًا اختيار بلد آخر وعملته بنفسك.",
-    "en": "• When you set up your shop for the first time, the app now proposes your country more accurately: from the SIM card or time zone on Android, and from the \"Country or region\" setting on Windows. No internet, no permission.\n• You can still pick another country and its currency yourself.",
-    "fr": "• À la première configuration de la boutique, l'application propose votre pays plus justement : depuis la carte SIM ou le fuseau horaire sur Android, et depuis le réglage « Pays ou région » sur Windows. Sans internet, sans autorisation.\n• Vous pouvez toujours choisir un autre pays et sa devise vous-même."
+    "ar": "• بداية أبسط على الهاتف: زر «ابدأ الآن» وإعداد أقصر للمحل.\n• إذا لم يكتمل إعداد محل فارغ، يعود التطبيق إلى صفحة الترحيب لإكماله.\n• إضافة سريعة للمنتج على الهاتف: توليد الباركود ومسحه وأقلام لتعديل كل خانة.\n• الموظفون أصبحوا في القائمة الرئيسية لصاحب المحل.\n• الاشتراك لجهاز واحد أو جهازين أو 3 أجهزة.\n• تذكير صباحي عند عدم تسجيل مبيعات، وطلب تفعيل الإشعارات في الوقت المناسب.",
+    "en": "• Simpler start on phones: a \"Start now\" button and a shorter shop setup.\n• An empty shop whose setup was not finished goes back to Welcome to finish it.\n• Quick add on phones: generate or clear a barcode, and a pencil on each field.\n• Staff is now in the main menu for the shop owner.\n• Subscribe for 1, 2 or 3 devices.\n• A morning reminder on days with no sale, and notifications offered at the right moments.",
+    "fr": "• Démarrage plus simple sur téléphone : un bouton « Commencer » et une configuration plus courte.\n• Une boutique vide à la configuration inachevée revient à l'accueil pour la terminer.\n• Ajout rapide sur téléphone : générer ou effacer un code-barres, un crayon sur chaque champ.\n• Les employés sont maintenant dans le menu principal pour le propriétaire.\n• Abonnement pour 1, 2 ou 3 appareils.\n• Un rappel le matin les jours sans vente, et les notifications proposées au bon moment."
   },
-  "downloadUrl": "https://github.com/dzstoredzd/dz-store-releases/releases/download/v2.21.0-573/StoreSoft-2.21.0-573.exe",
-  "releasePageUrl": "https://github.com/dzstoredzd/dz-store-releases/releases/tag/v2.21.0-573",
-  "sha256": "5d8174e075788f26c3ad35e1d7764fe244e2ec59ea6715a06c2890dd950515af",
-  "size": 20112445,
+  "downloadUrl": "https://github.com/dzstoredzd/dz-store-releases/releases/download/v2.22.1-575/StoreSoft-2.22.1-575.exe",
+  "releasePageUrl": "https://github.com/dzstoredzd/dz-store-releases/releases/tag/v2.22.1-575",
+  "sha256": "f688c29484e30ad91e4d3ac26f3932b39a4acec1eea2222fa9f9929b142a75fc",
+  "size": 20125611,
   "signed": false
 }

@@ -2,19 +2,19 @@
   "schemaVersion": 1,
   "channel": "stable",
   "environment": "production",
-  "releaseId": "2.22.1-575",
-  "version": "2.22.1",
-  "build": 575,
-  "commitSha": "92e0de6fabab49ca199c82f76755c9008d19fd34",
+  "releaseId": "2.23.0-576",
+  "version": "2.23.0",
+  "build": 576,
+  "commitSha": "f5ee348d00719ff4d65004f5b624ef7ca97d8252",
   "productionEligible": true,
   "releaseNotes": {
-    "ar": "• بداية أبسط على الهاتف: زر «ابدأ الآن» وإعداد أقصر للمحل.\n• إذا لم يكتمل إعداد محل فارغ، يعود التطبيق إلى صفحة الترحيب لإكماله.\n• إضافة سريعة للمنتج على الهاتف: توليد الباركود ومسحه وأقلام لتعديل كل خانة.\n• الموظفون أصبحوا في القائمة الرئيسية لصاحب المحل.\n• الاشتراك لجهاز واحد أو جهازين أو 3 أجهزة.\n• تذكير صباحي عند عدم تسجيل مبيعات، وطلب تفعيل الإشعارات في الوقت المناسب.",
-    "en": "• Simpler start on phones: a \"Start now\" button and a shorter shop setup.\n• An empty shop whose setup was not finished goes back to Welcome to finish it.\n• Quick add on phones: generate or clear a barcode, and a pencil on each field.\n• Staff is now in the main menu for the shop owner.\n• Subscribe for 1, 2 or 3 devices.\n• A morning reminder on days with no sale, and notifications offered at the right moments.",
-    "fr": "• Démarrage plus simple sur téléphone : un bouton « Commencer » et une configuration plus courte.\n• Une boutique vide à la configuration inachevée revient à l'accueil pour la terminer.\n• Ajout rapide sur téléphone : générer ou effacer un code-barres, un crayon sur chaque champ.\n• Les employés sont maintenant dans le menu principal pour le propriétaire.\n• Abonnement pour 1, 2 ou 3 appareils.\n• Un rappel le matin les jours sans vente, et les notifications proposées au bon moment."
+    "ar": "• في الجزائر: ادفع مرة واحدة 9 000 دج، والتطبيق لك على جهاز واحد بلا تاريخ انتهاء.\n• أجهزة إضافية مع المزامنة: 4 000 دج لكل جهاز في السنة.\n• الدفع عبر بريدي موب أو CCP، ثم راسلنا على واتساب أو اتصل بنا من الصفحة نفسها.",
+    "en": "• In Algeria: pay once, 9,000 DA, and the app is yours on one device with no end date.\n• Extra devices with Sync: 4,000 DA per device, per year.\n• Pay by BaridiMob or CCP, then message us on WhatsApp or call us from the same page.",
+    "fr": "• En Algérie : payez une seule fois 9 000 DA, l'application est à vous sur un appareil, sans date de fin.\n• Appareils en plus avec la synchronisation : 4 000 DA par appareil et par an.\n• Payez par BaridiMob ou CCP, puis écrivez-nous sur WhatsApp ou appelez-nous depuis la même page."
   },
-  "downloadUrl": "https://github.com/dzstoredzd/dz-store-releases/releases/download/v2.22.1-575/StoreSoft-2.22.1-575.exe",
-  "releasePageUrl": "https://github.com/dzstoredzd/dz-store-releases/releases/tag/v2.22.1-575",
-  "sha256": "f688c29484e30ad91e4d3ac26f3932b39a4acec1eea2222fa9f9929b142a75fc",
-  "size": 20125611,
+  "downloadUrl": "https://github.com/dzstoredzd/dz-store-releases/releases/download/v2.23.0-576/StoreSoft-2.23.0-576.exe",
+  "releasePageUrl": "https://github.com/dzstoredzd/dz-store-releases/releases/tag/v2.23.0-576",
+  "sha256": "d2c9cddae427c00ee159e789dc4e2c459d49f075d257a5e2c4c3d713949b8b81",
+  "size": 20146217,
   "signed": false
 }

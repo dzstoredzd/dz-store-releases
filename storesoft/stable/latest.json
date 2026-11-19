@@ -2,19 +2,19 @@
   "schemaVersion": 1,
   "channel": "stable",
   "environment": "production",
-  "releaseId": "2.23.0-576",
-  "version": "2.23.0",
-  "build": 576,
-  "commitSha": "f5ee348d00719ff4d65004f5b624ef7ca97d8252",
+  "releaseId": "2.27.0-580",
+  "version": "2.27.0",
+  "build": 580,
+  "commitSha": "9b98dd973716aa5e3d327ce64c4b74e5d5326170",
   "productionEligible": true,
   "releaseNotes": {
-    "ar": "• في الجزائر: ادفع مرة واحدة 9 000 دج، والتطبيق لك على جهاز واحد بلا تاريخ انتهاء.\n• أجهزة إضافية مع المزامنة: 4 000 دج لكل جهاز في السنة.\n• الدفع عبر بريدي موب أو CCP، ثم راسلنا على واتساب أو اتصل بنا من الصفحة نفسها.",
-    "en": "• In Algeria: pay once, 9,000 DA, and the app is yours on one device with no end date.\n• Extra devices with Sync: 4,000 DA per device, per year.\n• Pay by BaridiMob or CCP, then message us on WhatsApp or call us from the same page.",
-    "fr": "• En Algérie : payez une seule fois 9 000 DA, l'application est à vous sur un appareil, sans date de fin.\n• Appareils en plus avec la synchronisation : 4 000 DA par appareil et par an.\n• Payez par BaridiMob ou CCP, puis écrivez-nous sur WhatsApp ou appelez-nous depuis la même page."
+    "ar": "• في الجزائر: يمكنك الآن الدفع عبر Google Play. يتفعّل Pro فورًا على هذا الجهاز، والمزامنة تُضاف بزر واحد.\n• دفعت من قبل عبر Google Play؟ استرجع الشراء بعد إعادة تثبيت التطبيق على نفس الهاتف.",
+    "en": "• In Algeria: you can now pay with Google Play. Pro turns on right away on this device, and Cloud Sync is added with the same button.\n• Paid on Google Play before? Restore your purchase after reinstalling on the same phone.",
+    "fr": "• En Algérie : vous pouvez maintenant payer avec Google Play. Pro s'active tout de suite sur cet appareil, et la synchronisation s'ajoute avec le même bouton.\n• Déjà payé sur Google Play ? Récupérez votre achat après une réinstallation sur le même téléphone."
   },
-  "downloadUrl": "https://github.com/dzstoredzd/dz-store-releases/releases/download/v2.23.0-576/StoreSoft-2.23.0-576.exe",
-  "releasePageUrl": "https://github.com/dzstoredzd/dz-store-releases/releases/tag/v2.23.0-576",
-  "sha256": "d2c9cddae427c00ee159e789dc4e2c459d49f075d257a5e2c4c3d713949b8b81",
-  "size": 20146217,
+  "downloadUrl": "https://github.com/dzstoredzd/dz-store-releases/releases/download/v2.27.0-580/StoreSoft-2.27.0-580.exe",
+  "releasePageUrl": "https://github.com/dzstoredzd/dz-store-releases/releases/tag/v2.27.0-580",
+  "sha256": "84453ab3f7a0243f941ac7f33213da615b018c0887576870df11144c157c59c1",
+  "size": 20185206,
   "signed": false
 }
